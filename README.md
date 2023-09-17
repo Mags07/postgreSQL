@@ -28,7 +28,6 @@ Full website designer, myself: [Margarita Buyukli LinkedIN](https://www.linkedin
     - [Colour Scheme](#colour-scheme)
     - [Typography](#typography)
     - [Images \& Video](#images--video)
-    - [Logo](#logo)
     - [Wireframes](#wireframes)
     - [Features](#features)
   - [Technologies](#technologies)
@@ -132,32 +131,43 @@ Visual colour accessability analitics
 
 All images are from [Pexels](https://www.pexels.com/)
 
-### Logo
-
-Logo icon from [Favicon](https://favicon.io/)
-
 ### Wireframes
 
 - Wireframes were created using [Balsamiq](https://balsamiq.com/)
 <!--Balsamiq Wireframes here-->
-![](screenshots/wireframe1.png)
-![](screenshots/wireframe2.png)
-![](screenshots/wireframe3.png)
+![Home page](screenshots/wireframe1.png)
+![Booking page](screenshots/wireframe2.png)
+![Reservation confirmation](screenshots/wireframe3.png)
 
 ### Features
 
 Navigation
-Hero in Home page - catch attention
+Home page:
+Hero image - to stir appetite
+Call to action - buttom to booking page
 Welcome - about us
-Benefits
+Menu - Drinks, food and prices
+2nd call to action - button to booking page
 
-Footer
-Hero images in the rest of the website
-Imagery - movement and opaques to catch attention
-Links for ease of navigation through the website without call to action being too presuring.
+Booking page:
+Hero image - to stir appetite
+Dates available
+Time available
+Number of people available to book
+Special Requests
+Terms and conditions
+
+Confirmation:
+Booking confirmation with chosen date, time, number of people.
+
+Footer:
+Address
+Email
+Phone number
+Social Media
 
 Future Features
-Booking online without contact to be able to see availability before commiting to booking.
+Log in to update/ cancel bookinh upto 24 hours in advance.
 
 [Back to contents](#contents)
 
@@ -187,10 +197,6 @@ Booking online without contact to be able to see availability before commiting t
 - [GitHub](https://github.com/)
 
   - Hosting service for software development.
-
-- [FontAwesome](https://fontawesome.com/)
-
-  - Icon library and toolkit.
 
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
 
@@ -229,8 +235,7 @@ The live link can be found here: <https://mags07.github.io/Sauna-Beach-Spa/index
 
 ## Credits
 
-- Grid Template Layout
-<https://www.youtube.com/watch?v=Pip8s2BpelM&ab_channel=SixMinutes.Smarter>.
+- [w3schools.com](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_gourmet_catering&stacked=h) for the html template.
 
 ### Articles
 
@@ -245,15 +250,13 @@ The live link can be found here: <https://mags07.github.io/Sauna-Beach-Spa/index
 
 ### Content
 
-- The text for the Home page was taken from;
-- The icon in the logo and the social media icons in the footer [Font Awesome](https://fontawesome.com/)
+- The text for the Home page was taken from
 
 [Back to contents](#contents)
 
 ### Media
 
 - The photos used :
-- The video used:
 
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
