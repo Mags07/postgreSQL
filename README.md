@@ -111,26 +111,26 @@ Customer pain points:
 
 ### Colour Scheme
 
-Inspiration from [Pinterest](https://www.pinterest.ie/pin/905927281264221410/)
-![Colour Inspiration](screenshots/colour-palet.png)
+Inspiration from [Coastal Seafoods](https://www.coastalseafoods.com/Themes/Default/Content/Images/fortune-fish-gourmet-seafood.jpg)
+![Colour Inspiration](assets/css/readme_images/colours_inspiration.png)
 
 Colour Scheme chosen from [Coolors](https://coolors.co/)
-![Colour Scheme](screenshots/blue-spa-colour-scheme.png)
+![Colour Scheme](assets/css/readme_images/colour-scheme.png)
 
 Visual colour accessability analitics
 [Contrast Grid Eightshapes](https://contrast-grid.eightshapes.com/)
-![](screenshots/colour-contrast-accessibility.png)
+![](assets/css/readme_images/colour_contrast_grid.png)
 
 ### Typography
 
 - [Google Fonts](https://fonts.google.com/)
 
-  - Used 'Biryani' font for the logo and headings as it looks profisional, but soft/rounded.
-  - Used 'Montserrat' for for the main body writing as it is even more rounded.
+  - Used 'Lora' font for the logo and headings as it looks professional.
+  - Used 'Syne' for for the main body writing as it is rounded, looks a little casual.
 
 ### Images & Video
 
-All videos and images are from [Pexels](https://www.pexels.com/)
+All images are from [Pexels](https://www.pexels.com/)
 
 ### Logo
 
@@ -239,7 +239,7 @@ The live link can be found here: <https://mags07.github.io/Sauna-Beach-Spa/index
 
 ### Acknowledgements
 
-- My mentor Elaine Roche for her advice.
+- [w3schools.com](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_gourmet_catering&stacked=h) for the html template.
 - [Stackoverflow](https://stackoverflow.com/) community that have answered alot of similar questions I had.
 - Google search engine for the overload of information on website development.
 
