@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jt=(xnb#5+a=i@i4b@f75r#nqzkq62sl20wz3$g0we(&b7t=2e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["8000-mags07-postgresql-obt5w03e29.us2.codeanyapp.com"]
+ALLOWED_HOSTS = ["8000-mags07-postgresql-obt5w03e29.us2.codeanyapp.com" , "8000-mags07-postgresql-ttvst9j73wf.ws-us105.gitpod.io"]
 
 
 # Application definition
