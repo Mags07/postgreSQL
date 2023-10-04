@@ -12,5 +12,5 @@ if os.path.isfile('env.py'):
 # }
 
 DATABASES = {
-    'default: dj_database_url.parse('postgres://ewmgpngw:MHflWETYKrmykJZOLWujcBg0WtHAw-Bi@flora.db.elephantsql.com/ewmgpngw'))'
+    'default: dj_database_url.parse('os.environ.get("DATABASE_URL")')'
 }
